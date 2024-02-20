@@ -1,21 +1,99 @@
-<h1 align="center">Hi 👋, I'm Shang Zhe Lin</h1>
-<h3 align="center">I am a student at the Queensland University of Technology (QUT).</h3>
+---
+runme:
+  id: 01HQ26EVE1TFSNBH43ETA39HEP
+  version: v3
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lolmaple&label=Profile%20views&color=0e75b6&style=flat" alt="lolmaple" /> </p>
+<h1 align="center">LolMaple</h1>
+<div align="center">
+    <a href="https://linkedin.com/in/shang-zhe-lin/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=LolMaple&style=for-the-badge&color=blue" alt="Views"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lolmaple" alt="lolmaple" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shang zhe lin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shang zhe lin" height="30" width="40" /></a>
-</p>
+Welcome to my GitHub account! My name is **Shangzhe Lin** and I am a student at the [Queensland University of Technology (QUT)](https://qut.edu.au/).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am currently in my third year of university studying Engineering (Honours), majoring in Computer and Software Engineering.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lolmaple&show_icons=true&locale=en&layout=compact" alt="lolmaple" /></p>
+I use my GitHub account to host my engineering project repositories, and to showcase projects I have worked on to share my knowledge with others.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lolmaple&show_icons=true&locale=en" alt="lolmaple" /></p>
+<!-- [GitBook](https://maplebook.gitbook.io/notes/). -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lolmaple&" alt="lolmaple" /></p>
+## :book: Education
 
+- **Bachelor of Computer & Software Systems Engineering (Honours) (2023 - 2025)**
+
+   *[Queensland University of Technology (QUT)](https://qut.edu.au/)*.
+
+- **Bachelor of Electrical Engineerning (Honours) (2021 - 2022)**
+
+   *[University of Queensland (UQ)](https://www.uq.edu.au)*.
+
+---
+
+## :man_technologist: Experience
+
+I have been programming for about **4 years** and have worked with the following tools and technologies.
+
+### :computer: Software & Services I frequently use
+
+<div align="center" style="background-color: #D6DDE5; padding: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="Chrome" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Google" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" height="48rem"/>&nbsp;
+</div>
+
+#### Operating Systems I use
+
+<div align="center" style="background-color: #D6DDE5; padding: 10px; border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows 11" height="48rem"/>&nbsp;
+</div>
+
+### :hammer_and_wrench: Languages & Tools I work with
+
+#### For Web Development
+
+<div align="center" style="background-color: #D6DDE5; padding: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="48rem" />
+</div>
+
+#### For Software Development
+
+<div align="center" style="background-color: #D6DDE5; padding: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="48rem" />&nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="48rem"/>&nbsp;
+</div>
+
+#### For Mathematics and Reports
+
+<div align="center" style="background-color: #D6DDE5; padding: 10px; border-radius: 8px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" height="48rem" />&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="48rem" />&nbsp;
+</div>
+
+---
+
+## :fire: GitHub Statistics
+
+![LolMaple's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LolMaple&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LolMaple&show_icons=true&langs_count=6&layout=compact&theme=tokyonight)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LolMaple&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com)&nbsp;[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)
+
+</div>
