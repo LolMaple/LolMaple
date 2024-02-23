@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HQ9WQN6H179GYXJA40ANH9E4
-  version: v3
----
-
 <h1 align="center">LolMaple</h1>
 <div align="center">
     <a href="https://linkedin.com/in/shang-zhe-lin/">
