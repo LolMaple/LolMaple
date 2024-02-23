@@ -1,3 +1,9 @@
+---
+runme:
+  id: 01HQ9WQN6H179GYXJA40ANH9E4
+  version: v3
+---
+
 <h1 align="center">LolMaple</h1>
 <div align="center">
     <a href="https://linkedin.com/in/shang-zhe-lin/">
@@ -44,11 +50,15 @@ I have been programming for about **4 years** and have worked with the following
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" height="48rem"/>&nbsp;
 </div>
 
+###### Chrome | Git | Github | Google | Slack | VScode | Visual Studio
+
 #### Operating Systems I use
 
 <div align="center" style="background-color: #D6DDE5; padding: 10px; border-radius: 8px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows 11" height="48rem"/>&nbsp;
 </div>
+
+###### Windows
 
 ### :hammer_and_wrench: Languages & Tools I work with
 
@@ -60,6 +70,8 @@ I have been programming for about **4 years** and have worked with the following
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="48rem" />
 </div>
 
+###### HTML5 | CSS3 | MySQL
+
 #### For Software Development
 
 <div align="center" style="background-color: #D6DDE5; padding: 10px; border-radius: 8px;">
@@ -69,12 +81,16 @@ I have been programming for about **4 years** and have worked with the following
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="48rem"/>&nbsp;
 </div>
 
+###### Python | C# | C | Arduino
+
 #### For Mathematics and Reports
 
 <div align="center" style="background-color: #D6DDE5; padding: 10px; border-radius: 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" height="48rem" />&nbsp;
 </div>
+
+###### Latex | Matlab
 
 ---
 
