@@ -72,10 +72,10 @@ I have been programming for about **4 years** and have worked with the following
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="48rem" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="48rem" />&nbsp;
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="48rem"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="C" height="48rem" />&nbsp;
 </div>
 
-###### Python | C# | C | Arduino
+###### Python | C# | C | Arduino | AVR ASM
 
 #### For Mathematics and Reports
 
